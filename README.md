@@ -1,6 +1,6 @@
 # App-Academy-Work-Sample
 
-This is a Product Mangamenet Work Sample created for a specific problem.
+This is a Product Management Work Sample created for a specific problem.
 
 Protected by Apache License 2.0.
 
